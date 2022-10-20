@@ -39,7 +39,7 @@
     </dependencies>
 
     <build>
-        <!--        <finalName>analyzer-service</finalName>-->
+        <finalName>consumer_queue-${project.version}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
